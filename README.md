@@ -112,3 +112,4 @@ Update-Database
 ## TODO
 * Add configurators to further specify the db tables columns.
 * Separate the context from the controller using mediator pattern.
+* Apply Guid id for entities.
